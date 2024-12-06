@@ -1,5 +1,6 @@
 
-MODEL: pre-task 
+MODEL:
+  CHID: pre-task 
 
 REAC PARAMETERS:
   SOOT_YIELD: 0.113 [kg/kg]

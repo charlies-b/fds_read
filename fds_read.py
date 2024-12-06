@@ -60,7 +60,8 @@ class Model: # model 'data type'
         Print model summary
         """
         summary_string = \
-            '\nMODEL: {0} \n' \
+            '\nMODEL:'\
+            '\n  CHID: {0} \n' \
             '\nREAC PARAMETERS:' \
             '\n  SOOT_YIELD: {1} [kg/kg]' \
             '\n  CO_YIELD: {2} [kg/kg]' \
